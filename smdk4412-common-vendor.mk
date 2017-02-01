@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk4412-common/proprietary/bin/bcm4334_murata.hcd:system/bin/bcm4334_murata.hcd \
     vendor/samsung/smdk4412-common/proprietary/bin/bcm4334_semco.hcd:system/bin/bcm4334_semco.hcd \
     vendor/samsung/smdk4412-common/proprietary/bin/bcm4334_semcosh.hcd:system/bin/bcm4334_semcosh.hcd \
-    vendor/samsung/smdk4412-common/proprietary/bin/cbd:system/bin/cbd \
+    vendor/samsung/smdk4412-common/proprietary/sbin/cbd:root/sbin/cbd \
     vendor/samsung/smdk4412-common/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/smdk4412-common/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/smdk4412-common/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
