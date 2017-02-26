@@ -58,6 +58,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZH.bin:system/vendor/firmware/SlimISP_ZH.bin \
     vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZK.bin:system/vendor/firmware/SlimISP_ZK.bin \
     vendor/samsung/smdk4412-common/proprietary/vendor/firmware/SlimISP_ZM.bin:system/vendor/firmware/SlimISP_ZM.bin \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/bcm4334_murata.hcd:system/vendor/firmware/bcm4334_murata.hcd \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/bcm4334_semco.hcd:system/vendor/firmware/bcm4334_semco.hcd \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/bcm4334.hcd:system/vendor/firmware/bcm4334.hcd \
+    vendor/samsung/smdk4412-common/proprietary/vendor/firmware/BT_FW_VER_BCM4334B0_002.001.013.1810.2180_C1_SKT_B53_ORC.hcd:system/vendor/firmware/BT_FW_VER_BCM4334B0_002.001.013.1810.2180_C1_SKT_B53_ORC.hcd \
     vendor/samsung/smdk4412-common/proprietary/vendor/firmware/fimc_is_fw.bin:system/vendor/firmware/fimc_is_fw.bin \
     vendor/samsung/smdk4412-common/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
     vendor/samsung/smdk4412-common/proprietary/vendor/firmware/setfile.bin:system/vendor/firmware/setfile.bin \
